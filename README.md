@@ -36,3 +36,17 @@ Clona el repositorio:
 ```bash
 git clone https://github.com/tu-usuario/tu-repo.git
 cd tu-repo
+```
+
+Instala dependencias de PHP:
+
+```bash
+composer install
+```
+
+Instala dependencias frontend (si aplica):
+
+```bash
+npm install
+npm run build
+```
